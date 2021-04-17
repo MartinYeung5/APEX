@@ -48,10 +48,6 @@ The user can generate the specific health record. (like usage record of the medi
 
 Recevie simple analysis on the usage of herbal medicine complimentary based on health condition
 
-## Privacy Issue:
-1. Don’t collect the sensitive information from people such as crdit card password, ID card number and so on
-2. Only collect the health record, medicine info, and other related information.
-
 ## Platform Design - Mobile App (ios version + Android version)
 * Frontend: Dart (Flutter framework)
 * Backend: Java
@@ -61,6 +57,13 @@ Recevie simple analysis on the usage of herbal medicine complimentary based on h
 1. 3% commission of each transaction fee.
 2. Advertisement fee
 3. Data package of user health data for medical research/report to university and hospital. (not include the sensitive information like personal name, address, phone number)
+
+## Privacy Issue:
+1. Don’t collect the sensitive information from people such as crdit card password, ID card number and so on
+2. Only collect the health record, medicine info, and other related information.
+
+## Platform Regulation:
+1. User will need the prescription for specific medicine
 
 ## Competitor
 
