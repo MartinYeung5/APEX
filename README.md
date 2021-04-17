@@ -30,18 +30,22 @@ Indonesia (at the beginning)
 2. User receive
 
 2.1 Notification message
+
 For example:
 If user order the herbal medicine is not suitable for them (based on their health condition record), it will send the notification for them 
  
 2.2 Report for medicine product
+
 For example:
 You can receive the updated report for the medicine product which is ordered before or from report subscription 
  
 2.3 Retrieve of specific record
+
 For example:
 The user can generate the specific health record. (like usage record of the medicine) 
 
 2.4 Analysis on usage of herbal medicine complimentary 
+
 Recevie simple analysis on the usage of herbal medicine complimentary based on health condition
 
 ## Privacy Issue:
