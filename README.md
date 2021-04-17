@@ -23,8 +23,9 @@ Indonesia (at the beginning)
 1. User can 
 
 1.1 serach the herbal medicine in the platform 
+
 1.2 input/update their health condition for herbal medicine analysis
-1.3 recevie simple analysis on the usage of herbal medicine complimentary based on health condition
+
  
 2. User receive
 
