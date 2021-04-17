@@ -26,7 +26,7 @@ Indonesia (at the beginning)
 1.2 input/update their health condition for herbal medicine analysis
 1.3 recevie simple analysis on the usage of herbal medicine complimentary based on health condition
  
-2. User can receive
+2. User receive
 
 2.1 Notification message
 For example:
@@ -39,6 +39,9 @@ You can receive the updated report for the medicine product which is ordered bef
 2.3 Retrieve of specific record
 For example:
 The user can generate the specific health record. (like usage record of the medicine) 
+
+2.4 Analysis on usage of herbal medicine complimentary 
+Recevie simple analysis on the usage of herbal medicine complimentary based on health condition
 
 ## Privacy Issue:
 1. Don’t collect the sensitive information from people such as crdit card password, ID card number and so on
