@@ -6,6 +6,7 @@
 each clinic or pharmacy may have the limitaion of the medicine in their shop.
  
 [Solution]
+
 Develop an online marketplace (mobile App) for herbal medicine complimentary in order to let publice to buy the product more convenient.
 Moreover, the marketplace can offer various information about the herbal knowleadge and usage guildeline.
  
