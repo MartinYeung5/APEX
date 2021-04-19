@@ -1,14 +1,14 @@
 # APEX
 
 [Current Problem]
-1. People is not connevient to buy herbal medicine (complimentary) in Indonesia (Target country is Indonesia)
-2. The clinic or pharmacy may not have the herbal medicine you want or suitable for you. Acutally, 
-each clinic or pharmacy may have the limitaion of the medicine in their shop.
+1. People is not convenient to buy herbal medicine (complementary) in Indonesia (Target country is Indonesia)
+2. The clinic or pharmacy may not have the herbal medicine you want or suitable for you. 
+Actually, each clinic or pharmacy may have the limitation of the medicine in their shop.
  
 [Solution]
 
-Develop an online marketplace (mobile App) for herbal medicine complimentary in order to let public to buy the product more convenient.
-Moreover, the marketplace can offer various information about the herbal knowleadge and usage guildeline.
+Develop an online marketplace (mobile App) for herbal medicine complementary in order to let public to buy the product more convenient. 
+Moreover, the marketplace can offer various information about the herbal knowledge and usage guideline.
  
 ## Target Market
 Indonesia (at the beginning)
